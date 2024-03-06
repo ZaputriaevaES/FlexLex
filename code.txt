@@ -1,0 +1,6 @@
+Int64_t position = if true then initial + rate * 60 else 0
+else
+/* false, if, loop, 
+then, while, not, true, */
+//print, println 
+Int kate = 34 << apple & 12
