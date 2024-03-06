@@ -1,5 +1,5 @@
-#Lexical analysis of the language "Lex".
-##Using a flex.
+# Lexical analysis of the language "Lex".
+## Using a flex.
 
 ###  How to build
 ```
