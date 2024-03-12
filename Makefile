@@ -1,4 +1,4 @@
 test: lex.l
 	@flex lex.l
-	@g++ lex.yy.c -lfl -o a.out 
+	@g++ main.cpp lex.cpp lex.yy.c -lfl -o a.out 
 	
